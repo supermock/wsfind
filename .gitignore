@@ -1,0 +1,4 @@
+*.o
+wsfind
+.vscode
+wsfind-config.json
